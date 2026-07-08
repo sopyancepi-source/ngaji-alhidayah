@@ -1,0 +1,6 @@
+{
+  "name": "Buku Penghubung Digital",
+  "description": "Sistem laporan harian santri otomatis dengan tanda tangan orang tua digital dan evaluasi cerdas bertenaga AI untuk memudahkan Guru Ngaji.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
